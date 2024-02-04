@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Assignment Submission - Frontend Project
+
+## Project Overview
+
+This project is a frontend assignment submission built using Next.js and TypeScript, with the main focus on creating a pixel-perfect and device-responsive user interface.
+
+The project utilizes the ShadcnUI library for components and Tailwind CSS for styling. The application is hosted on Vercel.
+
+> Figma [link](https://www.figma.com/file/BJCW1Nvz64uwJXZhlGavKT/Task---Front-end?type=design&node-id=0-1&mode=design&t=tGpF2wBV1KIHctRb-0) of the assignment.
 
 ## Getting Started
 
-First, run the development server:
+To get started with the project, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/Nick-h4ck3r/abit-assignment.git
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Install dependencies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```bash
+   npm i
+   ```
 
-## Learn More
+3. Run the development server:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open [http://localhost:3000] to view the application in your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Technology Stack
 
-## Deploy on Vercel
+- **Next.js**: The project is built using Next.js, providing a powerful and efficient framework for React applications.
+- **TypeScript**: TypeScript is used to enhance code quality, provide static typing, and improve developer productivity.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **ShadcnUI**: Components from ShadcnUI library are employed to create a consistent and visually appealing user interface.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Tailwind CSS**: Tailwind CSS is used for styling, providing a utility-first approach and making it easy to create responsive designs.
+
+- **Vercel**: The application is hosted on Vercel, ensuring seamless deployment and continuous integration.
+
+## Project Highlights
+
+- **Pixel Perfect**: The project aims to achieve pixel-perfect similarity to the given task image in Figma, ensuring a visually polished user interface.
+
+- **Device Responsive**: The application is designed to be responsive across various devices, providing a seamless user experience on desktops, tablets, and mobile devices.
+
+- **Quick Development**: Despite the complexity of the task, the project was completed in a short timeframe of 6 hours overnight, showcasing efficient development practices.
+
+## Thanks
+
+Visit my [Portfolio website](https://nikhilkadam.vercel.app/).
